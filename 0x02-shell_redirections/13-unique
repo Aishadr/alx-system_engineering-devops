@@ -1,8 +1,2 @@
 #!/bin/bash
-1
-8
-5
-0
-2
-7
-8
+sort | uniq -u
